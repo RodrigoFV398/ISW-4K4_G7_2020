@@ -28,5 +28,12 @@ ISW_ISO_4K4_G7
 
 | Item de configuracion | Regla de nombrado | Ubicacion fisica |
 | --------------------- | ----------------- | ---------------- |
-| Enunciados ejericios resueltos | Trabajos_Practicos_Resueltos_yyyy.pdf |	Practico/TrabajosPracticosnoevaluables/Ejercicios Resueltos |
-| Enunciados trabajos practicos evaluables | Enunciados_Trabajos_Practicos_evaluable_2020.pdf | Practico/Trabajos Practicos evaluables |
+| Enunciados ejericios resueltos | Trabajos_Practicos_Resueltos_yyyy.pdf |	/Practico/TrabajosP racticos no evaluables/Ejercicios Resueltos |
+| Enunciados trabajos practicos evaluables | Enunciados_Trabajos_Practicos_evaluable_2020.pdf | /Practico/Trabajos Practicos evaluables |
+|Lineamientos para trabajos teoricos |  ISW_Lineamientos_para_trabajos_teóricos_yyy.docx | /Teorico/Trabajos Practicos |
+
+### Glosario ###
+
+| Sigla | Significado |
+| --------------------- | ----------------- | ---------------- |
+| yyyy  | Año |
