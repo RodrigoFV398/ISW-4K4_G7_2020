@@ -37,6 +37,7 @@ ISW_ISO_4K4_G7
 | Modalidad academica | UTN_FRC_Modalidad_Ing_SW_yyyy.pdf | / |
 | Trabajos Practicos Teoricos | Trabajo_practico_[numeroTP]_ [versionTP] _[yyyy] | /Teorico/Trabajos Practicos |
 | Papers | Nombre_Paper.pdf | /Teorico/Papers
+| Libros | Titulo_Autores_[Edición].pdf | /Teorico/Bibliografia |
 
 
 ### Glosario ###
