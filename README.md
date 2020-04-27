@@ -30,7 +30,7 @@ ISW_ISO_4K4_G7
 | --------------------- | ----------------- | ---------------- |
 | Enunciados ejericios resueltos | Trabajos_Practicos_Resueltos_yyyy.pdf |	/Practico/TrabajosP racticos no evaluables/Ejercicios Resueltos |
 | Enunciados trabajos practicos evaluables | Enunciados_Trabajos_Practicos_evaluable_2020.pdf | /Practico/Trabajos Practicos evaluables |
-|Lineamientos para trabajos teoricos |  ISW_Lineamientos_para_trabajos_teóricos_yyy.docx | /Teorico/Trabajos Practicos |
+|Lineamientos para trabajos teoricos |  ISW_Lineamientos_para_trabajos_teóricos_yyyy.docx | /Teorico/Trabajos Practicos |
 
 ### Glosario ###
 
