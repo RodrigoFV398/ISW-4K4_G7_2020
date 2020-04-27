@@ -39,3 +39,5 @@ ISW_ISO_4K4_G7
 | Sigla | Significado |
 | ----- | ----------- |
 | yyyy  | Año |
+| numeroTP | Numero del trabajo realizado | 
+| versionTP | Numero de version segun cambios |
