@@ -26,6 +26,9 @@ ISW-4K4_G7_2020
 │    │	└── The mythical man-month_Brooks_AnniversaryED.pdf
 │    ├── Clases Grabadas
 │    ├── Filminas
+│    │   ├── Gestión_de_Productos_de_Software_2020.pdf
+│    │   ├── Rqs_Agiles_USER_STORIES_y_Estimaciones_2020.pdf
+│    │   └── SCM_2020.pdf
 │    ├── Papers
 │    │	├── No_Silver_Bullets_Paper.pdf
 │    │	├── Orphans_Preferred_Paper.pdf
@@ -49,6 +52,7 @@ ISW-4K4_G7_2020
 | Trabajos Practicos Teoricos | Trabajo_practico_[numeroTP]_ [versionTP] _[yyyy] | /Teorico/Trabajos Practicos |
 | Papers | Nombre_Paper.pdf | /Teorico/Papers
 | Libros | Titulo_Autores_[Edición].pdf | /Teorico/Bibliografia |
+| Filminas de clase | TemaFilmina_yyyy.pdf | /Teorico/Filminas |
 
 
 ### Glosario ###
@@ -59,3 +63,5 @@ ISW-4K4_G7_2020
 | numeroTP | Numero del trabajo realizado | 
 | versionTP | Numero de version segun cambios |
 | Nombre | Nombre del documento, espacios representados por "_" |
+| TemaFilmina | Nombre del tema que trata la filmina, espacios representados por "_" |
+
