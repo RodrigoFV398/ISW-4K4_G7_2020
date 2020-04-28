@@ -27,9 +27,9 @@ ISW-4K4_G7_2020
 │    ├── Clases Grabadas
 │    ├── Filminas
 │    ├── Papers
-│    │	├── No_Silver_Bullets.pdf
-│    │	├── Orphans_Preferred.pdf
-│    │	└── Software_10_Essentials.pdf
+│    │	├── No_Silver_Bullets_Paper.pdf
+│    │	├── Orphans_Preferred_Paper.pdf
+│    │	└── Software_10_Essentials_Paper.pdf
 │    └── Trabajos Practios
 │    │	├── ISW_Lineamientos_para_trabajos_teóricos_2020.docx
 │    │	└── Trabajo_practico_1_1_2020.wmv
@@ -58,3 +58,4 @@ ISW-4K4_G7_2020
 | yyyy  | Año |
 | numeroTP | Numero del trabajo realizado | 
 | versionTP | Numero de version segun cambios |
+| Nombre | Nombre del documento, espacios representados por "_" |
