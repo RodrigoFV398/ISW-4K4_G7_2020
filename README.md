@@ -28,7 +28,10 @@ ISW-4K4_G7_2020
 │    ├── Filminas
 │    │   ├── Gestión_de_Productos_de_Software_2020.pdf
 │    │   ├── Rqs_Agiles_USER_STORIES_y_Estimaciones_2020.pdf
-│    │   └── SCM_2020.pdf
+│    │   ├── SCM_2020.pdf
+│    │   ├── Scrum_y_Metricas_Agiles_2020.pdf
+│    │   ├── Metricas_tradicionales_2020.pdf
+│    │   └── Testing_de_Software1_2020.pdf
 │    ├── Papers
 │    │	├── No_Silver_Bullets_Paper.pdf
 │    │	├── Orphans_Preferred_Paper.pdf
