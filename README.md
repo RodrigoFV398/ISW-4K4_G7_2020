@@ -49,10 +49,10 @@ ISW-4K4_G7_2020
 | Item de configuracion | Regla de nombrado | Ubicacion fisica |
 | --------------------- | ----------------- | ---------------- |
 | Enunciados ejericios resueltos | Trabajos_Practicos_Resueltos_yyyy.pdf |	/Practico/TrabajosP racticos no evaluables/Ejercicios Resueltos |
-| Enunciados trabajos practicos evaluables | Enunciados_Trabajos_Practicos_evaluable_2020.pdf | /Practico/Trabajos Practicos evaluables |
+| Enunciados trabajos practicos evaluables | Trabajo_practico_[numeroTP]_ V[versionTP] _[yyyy] | /Practico/Trabajos Practicos evaluables |
 | Lineamientos para trabajos teoricos |  ISW_Lineamientos_para_trabajos_teóricos_yyyy.docx | /Teorico/Trabajos Practicos | 
 | Modalidad academica | UTN_FRC_Modalidad_Ing_SW_yyyy.pdf | / |
-| Trabajos Practicos Teoricos | Trabajo_practico_[numeroTP]_ [versionTP] _[yyyy] | /Teorico/Trabajos Practicos |
+| Trabajos Practicos Teoricos | Trabajo_practico_[numeroTP]_V[versionTP] _[yyyy] | /Teorico/Trabajos Practicos |
 | Papers | Nombre_Paper.pdf | /Teorico/Papers
 | Libros | Titulo_Autores_[Edición].pdf | /Teorico/Bibliografia |
 | Filminas de clase | TemaFilmina_yyyy.pdf | /Teorico/Filminas |
