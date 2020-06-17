@@ -25,6 +25,7 @@ ISW-4K4_G7_2020
 │   └─── Trabajos Practicos no evaluables
 │   │   └─── Ejercicios Resueltos
 │   │   │   └─── Trabajos_Practicos_Resueltos_2020.pdf
+│   │	├── TRABAJO_PRACTICO_11_1_2020.xlxs
 ├── Teorico
 │    ├── Bibliografia
 │    │	├── Ingenieria de software_Sommerville_7ED.pdf
