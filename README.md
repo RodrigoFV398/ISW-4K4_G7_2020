@@ -16,6 +16,12 @@ ISW-4K4_G7_2020
 ├── Practico
 │   ├── Trabajos Practicos evaluables
 │   │   ├── Enunciados_Trabajos_Practicos_evaluables_2020.pdf
+│   │   ├── TRABAJO_PRACTICO_5_1_2020.rar
+│   │   ├── TRABAJO_PRACTICO_6_1_2020.pdf
+│   │   ├── TRABAJO_PRACTICO_6_2_2020.pdf
+│   │   ├── TRABAJO_PRACTICO_7_1_2020.pdf
+│   │   ├── TRABAJO_PRACTICO_8_1_2020.pdf
+│   │   ├── TRABAJO_PRACTICO_12_1_2020.xlsx
 │   └─── Trabajos Practicos no evaluables
 │   │   └─── Ejercicios Resueltos
 │   │   │   └─── Trabajos_Practicos_Resueltos_2020.pdf
