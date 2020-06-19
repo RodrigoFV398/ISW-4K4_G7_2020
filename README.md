@@ -45,7 +45,8 @@ ISW-4K4_G7_2020
 │    │	└── Software_10_Essentials_Paper.pdf
 │    └── Trabajos Practios
 │    │	├── ISW_Lineamientos_para_trabajos_teóricos_2020.docx
-│    │	└── Trabajo_practico_1_1_2020.wmv
+│    │	├── Trabajo_practico_1_1_2020.wmv
+|    |  └── Trabajo_practico_2_1_2020
 ├── README.md
 └── UTN_FRC_Modalidad_Ing_SW_2020.pdf
 ```
