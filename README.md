@@ -9,7 +9,7 @@
 Durante la semana correspondiente a cada parcial teniendo como dia limite el domingo de dicha semana
 
 
-### Estrcutura de repositorio ###
+### Estructura de repositorio ###
 
 ```
 ISW-4K4_G7_2020  
